@@ -1,0 +1,21 @@
+.hidden
+{
+    display:none;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+#animals
+{
+    color:blue;
+}
+#banner
+{
+    color:forestgreen;
+}
+body
+{
+    background-color:cornsilk;
+}
